@@ -1,0 +1,3 @@
+
+HOMEPAGE="http://www.nongnu.org/guile-www/"
+SRC_URI="mirror://savannah/guile-www/${P}.tar.gz"
